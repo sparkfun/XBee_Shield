@@ -1,8 +1,8 @@
-Xbee Shield
+XBee Shield
 ===========
 
 [![XBee Shield](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/8/5/4/10854-05_i_ma.jpg)
-*Xbee Shield (WRL-10854)*](https://www.sparkfun.com/products/10854)
+*XBee Shield (WRL-10854)*](https://www.sparkfun.com/products/10854)
 
 This shield mates directly with any dev board that has an Arduino standard footprint and equips it with the wireless
 communication capabilities using the popular Xbee modules. 
