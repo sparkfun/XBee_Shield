@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.001" altunitdist="inch" altunit="inch"/>
+<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -56,7 +56,7 @@
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
-<layer number="49" name="Reference" color="13" fill="1" visible="yes" active="yes"/>
+<layer number="49" name="Reference" color="13" fill="1" visible="no" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="yes"/>
 <layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
@@ -169,7 +169,7 @@
 <text x="43.688" y="4.953" size="1.016" layer="21" font="vector" ratio="15" rot="R180">3</text>
 <text x="4.572" y="19.05" size="1.016" layer="21" font="vector" ratio="15">XBEE</text>
 <text x="8.509" y="19.05" size="1.016" layer="21" font="vector" ratio="15">RST</text>
-<text x="26.67" y="30.48" size="1.27" layer="22" font="vector" ratio="15" rot="MR270">Xbee Sheild</text>
+<text x="26.67" y="30.48" size="1.27" layer="22" font="vector" ratio="15" rot="MR270">Xbee Shield</text>
 <text x="41.783" y="-14.478" size="2.032" layer="51" font="vector" ratio="10" rot="R180">A. Weiss</text>
 <text x="9.271" y="-19.431" size="1.778" layer="51" font="vector" ratio="10">Revised by: Patrick Alberts</text>
 </plain>
