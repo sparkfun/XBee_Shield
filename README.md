@@ -1,17 +1,21 @@
 XBee Shield
 ===========
 
-[![XBee Shield](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/8/5/4/10854-05_i_ma.jpg)
-*XBee Shield (WRL-10854)*](https://www.sparkfun.com/products/10854)
+[![XBee Shield](https://cdn.sparkfun.com//assets/parts/9/6/9/7/12847-00.jpg)
+*XBee Shield (WRL-12847)*](https://www.sparkfun.com/products/12847)
 
 This shield mates directly with any dev board that has an Arduino standard footprint and equips it with the wireless
-communication capabilities using the popular Xbee modules. 
+communication capabilities using the popular XBee modules. 
 
 
 Repository Contents
 -------------------
+* **/Hardware** - All Eagle design files (.brd, .sch)
+* **/Production** - Test bed files and production panel files
 
-* **/Hardware** - All Eagle design files (.brd, .sch, .STL)
+Version History
+---------------
+* [v14](https://www.sparkfun.com/products/10854) Version 1.4. 
 
 License Information
 -------------------
